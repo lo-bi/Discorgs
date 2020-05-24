@@ -1,7 +1,7 @@
 # Discorgs
 
 This script allow you to go through a Discorgs Wantlist and check for each records how many are they in the marketplace.
-It can help you to prioritize which vinyl you should be first (the ones which are less in the marketplace)
+It can help you to prioritize which vinyl you should buy first (the ones which are less in the marketplace)
 
 # Install
 
